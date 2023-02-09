@@ -1,1 +1,4 @@
-This repository contains files and other information about the project
+This repository contains files and other information about 'AirBnB clone - The console' project
+
+#### LANGUAGE: Python
+
